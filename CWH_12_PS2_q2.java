@@ -1,0 +1,9 @@
+public class CWH_12_PS2_q2 {
+    public static void main(String[] args) {
+        char grade = 'b';
+        grade = (char) (grade + 8);
+        System.out.println(grade);
+        grade = (char) (grade - 8);
+        System.out.println(grade);
+    }
+}
